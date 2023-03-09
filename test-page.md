@@ -5,7 +5,7 @@ layout: page
 
 > #### Brasileira - Solteira - 52 anos								
 #### Centro – BH/MG - Telefones: 3201-5023 / 99718-1075				
-#### E-mails: clauke2004@yahoo.com.br / clauke14@gmail.com			
+#### E-mails: clauke2004@yahoo.com.br / clauke14@gmail.com                                       
 
 
 [LinkedIn](https://www.linkedin.com/in/claudia-kenia/)
