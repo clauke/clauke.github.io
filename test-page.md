@@ -3,11 +3,10 @@ title: Currículo
 layout: page
 ---
 
-> ## Brasileira - Solteira - 52 anos	Centro – BH/MG - Telefones: 3201-5023 / 99718-1075
-### This is heading 3
-#### This is heading 4
-##### This is heading 5
-###### This is heading 6
+> #### Brasileira - Solteira - 52 anos
+#### Centro – BH/MG - Telefones: 3201-5023 / 99718-1075
+#### E-mails: clauke2004@yahoo.com.br / clauke14@gmail.com
+
 
 [LinkedIn](https://www.linkedin.com/in/claudia-kenia/)
 
