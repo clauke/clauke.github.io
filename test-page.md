@@ -10,7 +10,7 @@ layout: page
 ##### This is heading 5
 ###### This is heading 6
 
-[https://www.linkedin.com/in/claudia-kenia/](#)
+[LinkedIn:](https://www.linkedin.com/in/claudia-kenia/)
 
 > This is a blockquote
 
