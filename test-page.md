@@ -1,5 +1,5 @@
 ---
-title: Test Page
+title: Currículo
 layout: page
 ---
 
