@@ -1,5 +1,5 @@
 ---
-title: Currículo
+title: Cláudia Kênia da Silva
 layout: page
 ---
 
@@ -10,7 +10,7 @@ layout: page
 ##### This is heading 5
 ###### This is heading 6
 
-[This is a link](#)
+[https://www.linkedin.com/in/claudia-kenia/](#)
 
 > This is a blockquote
 
