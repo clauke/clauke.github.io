@@ -1,5 +1,5 @@
 ---
-title: Cláudia Kênia da Silva
+title: Currículo
 layout: page
 ---
 
