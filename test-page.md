@@ -1,5 +1,5 @@
 ---
-title: Currículo
+title: Cláudia Kênia da Silva
 layout: page
 ---
 
@@ -48,5 +48,5 @@ Iniciei minha carreira em TI no ano de 1995 tendo percorrido diversas áreas de 
 Inglês (leitura/escrita) - Intermediário
 
 #### PUBLICAÇÕES PESSOAIS
-E-Book: Guia de Impressão 3D – Nível Básico (disponível em https://www.amazon.com.br/)
-Curso On-line: Guia de Impressão 3D – Nível Básico (disponível em: https://www.udemy.com/)
+* E-Book: Guia de Impressão 3D – Nível Básico (disponível em https://www.amazon.com.br/)
+* Curso On-line: Guia de Impressão 3D – Nível Básico (disponível em: https://www.udemy.com/)
