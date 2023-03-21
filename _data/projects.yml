@@ -1,11 +1,11 @@
 - name: Projeto Copa do Mundo
   image: /assets/images/Projeto1.png
   link: https://github.com/clauke/Proj_CopadoMundo
-  description: Projeto de BI para a Copa do Mundo de Futebol 2022 - Análise de Dados, Visualizações e Storytelling com Power BI.
+  description: Análise de Dados, Visualizações e Storytelling com Power BI.
 - name: Projeto E-Commerce
   link: https://github.com/clauke/Proj_Ecommerce
   image: /assets/images/Proj_Varejo.png
-  description: Projeto de Business Intelligence para E-Commerce - Análise de Dados e Visualizações em Python com Dash e Plotly.
+  description: Análise de Dados e Visualizações em Python com Dash e Plotly.
 - name: Projeto Planos por Assinatura
   link:
   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
