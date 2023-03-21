@@ -18,16 +18,16 @@ layout: page
 #### EXPERIÊNCIA PROFISSIONAL
 * 2021 a Atual: Analista de Dados – Freelancer
 
-Atividades: Análise de dados, criação de visualizações e dashboards usando Power BI, Tableau, Python, Linguagem R, Excel, storytelling; práticas de ETL em diferentes tipos de fontes: arquivos CSV, Excel, etc.
+	Atividades: Análise de dados, criação de visualizações e dashboards usando Power BI, Tableau, Python, Linguagem R, Excel, storytelling; práticas de ETL em diferentes tipos de fontes: arquivos CSV, Excel, etc.
 
 * 2021-2022 / 2018-2019 – SENAC – Instrutor de Informática
 
-Atividades: Elaborar plano de aula, ministrar o conteúdo programático (Introdução ao Hardware, MS-Office, Excel, Informática para Melhor Idade).
+	Atividades: Elaborar plano de aula, ministrar o conteúdo programático (Introdução ao Hardware, MS-Office, Excel, Informática para Melhor Idade).
 
 * 2020-2021 – ArteBrilho (Lotação: Secretaria Municipal de Saúde)
 
-Atividades: Suporte administrativo; elaboração de relatórios gerenciais; criação/manutenção de apps Google.
+	Atividades: Suporte administrativo; elaboração de relatórios gerenciais; criação/manutenção de apps Google.
 
 * 2001-2016 – Secretaria Municipal de Saúde/PRODABEL – Analista de Sistemas
 
-Atividades: Analisar, desenvolver e sustentar aplicações para a Secretaria Municipal de Saúde. Gerenciamento do Projeto RPA (elaborar documentação, pontos de função, casos de uso, DER, casos de teste, linguagem UML) implantado na Gerência de Pagamentos, UPA’s e SAMU.
+	Atividades: Analisar, desenvolver e sustentar aplicações para a Secretaria Municipal de Saúde. Gerenciamento do Projeto RPA (elaborar documentação, pontos de função, casos de uso, DER, casos de teste, linguagem UML) implantado na Gerência de Pagamentos, UPA’s e SAMU.
