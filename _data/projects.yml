@@ -2,22 +2,18 @@
   image: /assets/images/Projeto1.png
   link: https://github.com/clauke/Proj_CopadoMundo
   description: Análise de Dados, Visualizações e Storytelling com Power BI.
-
 - name: Projeto E-Commerce
   link: https://github.com/clauke/Proj_Ecommerce
   image: /assets/images/Proj_Varejo.png
   description: Análise de Dados e Visualizações em Python com Dash e Plotly.
-
 - name: Projeto Planos por Assinatura
   link: https://github.com/clauke/Proj_PlanosAssinatura
   image: /assets/images/Proj_Assinat.png
   description: Análise de Dados e Dashboard usando somente Excel.
-
 - name: Projeto Exames Clínicos
   link:
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
   description: Projeto para Laboratórios de Medicina Diagnóstica - Business Intelligence e Visualizações com Tableau.
-  
 - name: Projeto Filmes
   link:
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
