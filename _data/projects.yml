@@ -10,11 +10,11 @@
   link: https://github.com/clauke/Proj_PlanosAssinatura
   image: /assets/images/Proj_Assinat.png
   description: Análise de Dados e Dashboard usando somente Excel.
-- name: Projeto Exames Clínicos
-  link:
+- name: Projeto para Laboratórios
+  link: https://github.com/clauke/Proj_Exames_Labor
   image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: Projeto para Laboratórios de Medicina Diagnóstica - Business Intelligence e Visualizações com Tableau.
+  description: Business Intelligence e Visualizações com Tableau.
 - name: Projeto Filmes
   link:
   image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
-  description: Projeto de Visualização para Serviços de Streaming - Visualizações usando Linguagem R, flexdashboard e Shiny.
+  description: Visualizações usando Linguagem R, flexdashboard e Shiny.
