@@ -12,9 +12,9 @@
   description: Análise de Dados e Dashboard usando somente Excel.
 - name: Projeto para Laboratórios
   link: https://github.com/clauke/Proj_Exames_Labor
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
+  image: /assets/images/Proj_Labor.png
   description: Business Intelligence e Visualizações com Tableau.
 - name: Projeto Filmes
-  link:
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+  link: https://github.com/clauke/Projeto_Filmes
+  image: /assets/images/Proj_Filmes.png
   description: Visualizações usando Linguagem R, flexdashboard e Shiny.
