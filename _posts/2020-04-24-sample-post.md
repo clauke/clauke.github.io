@@ -2,8 +2,7 @@
 title: Os Dados...
 layout: post
 post-image: "https://github.com/clauke/clauke.github.io/tree/main/assets/images/Dados.png"
-description: A sample post to show how the content will look and how will different
-  headlines, quotes and codes will be represented.
+description: testando
 tags:
 - sample
 - post
