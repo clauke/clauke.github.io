@@ -1,7 +1,7 @@
 ---
 title: Os Dados...
 layout: post
-post-image: "D:/clauke.github.io/assets/images/meta.jpg"
+post-image: "https://github.com/clauke/clauke.github.io/tree/main/assets/images/dados.png"
 description: A sample post to show how the content will look and how will different
   headlines, quotes and codes will be represented.
 tags:
