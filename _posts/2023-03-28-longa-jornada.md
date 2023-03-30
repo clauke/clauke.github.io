@@ -2,8 +2,7 @@
 title: Uma longa jornada
 layout: post
 post-image: /assets/images/Smsa.png
-description: Jekyll is a static site generator. You give it text written in your favorite
-  markup language and it uses layouts to create a static website.
+description: Em construção
 tags:
 - projetos
 - smsa

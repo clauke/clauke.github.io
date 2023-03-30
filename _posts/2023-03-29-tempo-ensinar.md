@@ -2,8 +2,7 @@
 title: Tempo de ensinar
 layout: post
 post-image: /assets/images/Cursos.png
-description: This post will guide you to install WhatATheme on your Jekyll site, follow
-  the easy steps to set up WhatATheme.
+description: Em construção
 tags:
 - cursos
 - 3d
