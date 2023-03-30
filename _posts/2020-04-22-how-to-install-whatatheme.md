@@ -5,9 +5,9 @@ post-image: /assets/images/Cursos.png
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
   the easy steps to set up WhatATheme.
 tags:
-- how to
-- setup
-- theme
+- cursos
+- 3d
+- público
 ---
 
 # What is WhatATheme?
