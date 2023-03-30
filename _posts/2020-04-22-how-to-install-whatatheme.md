@@ -1,7 +1,7 @@
 ---
 title: Tempo de ensinar
 layout: post
-post-image: D:/clauke.github.io/assets/images/meta.jpg
+post-image: /assets/images/Cursos.png
 description: This post will guide you to install WhatATheme on your Jekyll site, follow
   the easy steps to set up WhatATheme.
 tags:

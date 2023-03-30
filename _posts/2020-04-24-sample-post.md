@@ -1,7 +1,7 @@
 ---
 title: Os Dados...
 layout: post
-post-image: "https://github.com/clauke/clauke.github.io/tree/main/assets/images/Dados.png"
+post-image: /assets/images/Dados.png
 description: testando
 tags:
 - sample
