@@ -6,7 +6,7 @@
   link: https://github.com/clauke/Proj_Ecommerce
   image: /assets/images/Proj_Varejo.png
   description: Análise de Dados e Visualizações em Python com Dash e Plotly.
-- name: Projeto Planos por Assinatura
+- name: Projeto Planos Assinatura
   link: https://github.com/clauke/Proj_PlanosAssinatura
   image: /assets/images/Proj_Assinat.png
   description: Análise de Dados e Dashboard usando somente Excel.
