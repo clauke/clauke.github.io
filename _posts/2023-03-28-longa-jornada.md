@@ -11,6 +11,10 @@ tags:
 
 Impossível não descrever esse período profissional que se iniciou em 2001, pois foi o maior tempo que trabalhei em uma empresa (15 anos) e trouxe uma bagagem enorme, não apenas de conhecimento técnico, como também, imprescindíveis soft skills. Fui contratada para desenvolver um SGBD em Access para substituir o sistema de Compras que já estava sem manutenção e funcionando em apenas um PC. Em 4 meses, entrevistei usuários, analisei requisitos, desenvolvi a aplicação (back e front-end), criei as conexões externas necessárias (ODBC), testei e coloquei em produção. Entendendo que o Access não era a melhor solução, argumentei que uma manutenção preventiva e constante seria fundamenteal para seu funcionamento. E assim foi feito: sob meus cuidados e atenção aos bugs reportados pelos usuários, essa aplicação funcionou durante mais de 17 anos, gerando economia financeira mesmo após meu desligamento. Após minha saída, em 2016, a substituíção do programa era inevitável e ocorreu por volta de 2018/19. 
 
+Outro ponto alto dessa trajetória foi minha atuação como Gerente de Projetos no desenvolvimento de uma aplicação denominada RPA para controlar os plantões médicos nas Unidades de Pronto Atendimento (UPA).
+
+Somam-se a esse histórico, atividades como: suporte e treinamento a usuários, reuniões com stackeholders, apresentações, documentações dentre outras.
+
 
 # Habilidades adquiridas
 **Jekyll is a Ruby Gem that can be installed on most systems.**
