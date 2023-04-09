@@ -22,11 +22,14 @@ Somam-se a esse histórico, atividades como: suporte, treinamento a usuários, r
 * Bancos de Dados
 * UML
 * Microsoft Office
-* 
+* Windows
+* MS Project
+* SCRUM
 
 ### Soft Skills
-**For detailed install instructions have a look at the guide for your operating system.**
-* [macOS](https://jekyllrb.com/docs/installation/macos/){:target="_blank"}
-* [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/){:target="_blank"}
-* [Other Linux Distros](https://jekyllrb.com/docs/installation/other-linux/){:target="_blank"}
-* [Windows](https://jekyllrb.com/docs/installation/windows/){:target="_blank"}
+
+* Comunicação Clara e Objetiva
+* Relações Interpessoais
+* Trabalho em Equipe
+* Empatia
+* Liderança
