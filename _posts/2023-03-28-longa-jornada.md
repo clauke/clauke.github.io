@@ -15,6 +15,7 @@ Outro ponto alto dessa trajetória foi minha atuação como Gerente de Projetos 
 
 Somam-se a esse histórico, atividades como: suporte, treinamento a usuários, reuniões com stackeholders, apresentações, dentre outras.
 
+---
 
 # Habilidades
 **Descrição das habilidades e conhecimentos adquiridos nessa experiência.**
