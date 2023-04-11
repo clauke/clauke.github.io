@@ -2,16 +2,18 @@
 title: Tempo de ensinar
 layout: post
 post-image: /assets/images/Cursos.png
-description: Em construção
+description: Relato sobre a experiência em lecionar.
 tags:
 - cursos
 - 3d
-- público
+- instrutora
 ---
 
-# What is WhatATheme?
->You’ll find this post in your ***_posts*** directory. Go ahead and edit it and re-build the site to see your changes. >You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Tive minha primeira experiência como instrutora de TI antes de 2001. Ministrei aulas sobre o Microsoft Office e Internet em uma escola profissionalizante de São Paulo que manteve uma filial em Belo Horizonte por aproximadamente 2 anos. Descobri, nesse período, uma habilidade que até então, acreditava ser apenas acadêmica: falar em público!
 
+Essa habilidade fez com que, mais recentemente, eu voltasse à sala de aula. Por dois anos, não consecutivos, ministrei alguns cursos no Senac.
+
+Não posso esquecer da Impressão 3D. Começou com a ideia de uma amiga e sócia nesse empreendimento, Sandra. Em 2016, após muita pesquisa (vale lembrar que grande parte do material disponível na época, era em inglês), publicamos um eBook (disponível na Amazon) e um curso completo para iniciantes (disponível na Udemy). Também compramos uma impressora 3D (a qual tivemos que montar, peça por peça), pois nosso intuito era produzir peças usando a tecnologia. Investi em cursos de desenho técnico e Autocad para embasar o conhecimento. O empreendimento não vingou: parte 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VfPa2c9kwhQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
