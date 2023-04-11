@@ -5,7 +5,7 @@ post-image: /assets/images/Smsa.png
 description: Post sobre a experiência vivida na Secretaria Municipal de Saúde de Belo Horizonte.
 tags:
 - projetos
-- smsa
+- access
 - suporte
 ---
 
@@ -24,6 +24,7 @@ Somam-se a esse histórico, atividades como: suporte, treinamento a usuários, r
 * Microsoft Office
 * Windows
 * MS Project
+* RUP
 * SCRUM
 
 ### Soft Skills
