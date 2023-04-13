@@ -24,6 +24,7 @@ Não posso esquecer da Impressão 3D. Começou com a ideia de uma amiga e sócia
 * Microsoft Office
 * Windows
 * Linux
+* Impressão 3D
 * Autocad
 
 ### Soft Skills
