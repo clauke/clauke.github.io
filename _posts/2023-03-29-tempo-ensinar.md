@@ -20,17 +20,18 @@ Não posso esquecer da Impressão 3D. Começou com a ideia de uma amiga e sócia
 # Habilidades
 **Descrição das habilidades e conhecimentos adquiridos nessa experiência.**
 ### Hard Skills
-* Bancos de Dados
-* UML
+* Excel
 * Microsoft Office
 * Windows
-* MS Project
-* RUP
-* SCRUM
+* Linux
+* Autocad
 
 ### Soft Skills
+* Falar em público
 * Comunicação Clara e Objetiva
+* Paciência
+* Didática
 * Relações Interpessoais
-* Trabalho em Equipe
 * Empatia
-* Liderança
+* Empreendedorismo
+* Resiliência
