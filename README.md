@@ -11,5 +11,5 @@
 * Contato [LinkedIn](https://www.linkedin.com/in/claudia-kenia/)
 * Expertise
 * Mais:
-* Currículo [Currículo]()
-* Projetos [Projetos](https://clauke.github.io/project)
+1. Currículo [Currículo]()
+2. Projetos [Projetos](https://clauke.github.io/project)
