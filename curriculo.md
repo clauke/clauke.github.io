@@ -11,7 +11,7 @@ layout: page
 #### [LinkedIn](https://www.linkedin.com/in/claudia-kenia/)
 
 #### *RESUMO PROFISSIONAL*
-Iniciei minha carreira em TI no ano de 1995 tendo percorrido diversas áreas de conhecimento, tais como: suporte a usuários, treinamento, análise/desenvolvimento de Sistemas, gerenciamento de projetos. Há 2 anos, busco conhecimentos em Análise de Dados realizando diversos cursos na área com o objetivo de migrar para essa área.
+Iniciei minha carreira em TI no ano de 1995 tendo percorrido diversas áreas de conhecimento, tais como: suporte a usuários, treinamento, análise/desenvolvimento de Sistemas, gerenciamento de projetos. Há 3 anos, busco conhecimentos em Análise de Dados realizando diversos cursos com o objetivo de migrar para essa área.
 
 #### *EDUCAÇÃO*
 * Pós-Graduação em Engenharia de Software. PUC MINAS, conclusão em 2007.
