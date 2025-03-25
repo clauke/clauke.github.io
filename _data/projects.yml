@@ -1,7 +1,7 @@
-- name: Projeto Copa do Mundo
-  image: /assets/images/Projeto1.png
-  link: https://github.com/clauke/Proj_CopadoMundo
-  description: Análise de Dados, Visualizações e Storytelling com Power BI.
+- name: Projeto Vendas
+  image: /assets/images/Proj_Vendas.png
+  link: https://github.com/clauke/Projeto_Vendas
+  description: ETL, Modelagem e Visualizações com Pandas, SQL e Power BI.
 - name: Projeto E-Commerce
   link: https://github.com/clauke/Proj_Ecommerce
   image: /assets/images/Proj_Varejo.png
