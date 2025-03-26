@@ -2,10 +2,10 @@
   image: /assets/images/Proj_Vendas.png
   link: https://github.com/clauke/Projeto_Vendas
   description: ETL, Modelagem e Visualizações com Pandas, SQL e Power BI.
-- name: Projeto E-Commerce
-  link: https://github.com/clauke/Proj_Ecommerce
-  image: /assets/images/Proj_Varejo.png
-  description: Análise de Dados e Visualizações em Python com Dash e Plotly.
+- name: Projeto Saúde
+  link: https://github.com/clauke/Projeto_Saude
+  image: /assets/images/Proj_Saude.png
+  description: Análise Estatística e Machine Learning com Linguagem R.
 - name: Projeto Planos Assinatura
   link: https://github.com/clauke/Proj_PlanosAssinatura
   image: /assets/images/Proj_Assinat.png
