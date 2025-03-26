@@ -5,7 +5,7 @@
 - name: Projeto Saúde
   link: https://github.com/clauke/Projeto_Saude
   image: /assets/images/Proj_Saude.png
-  description: Análise Estatística e Machine Learning com Linguagem R.
+  description: Análise Estatística, ETL e Machine Learning com Linguagem R.
 - name: Projeto Planos Assinatura
   link: https://github.com/clauke/Proj_PlanosAssinatura
   image: /assets/images/Proj_Assinat.png
