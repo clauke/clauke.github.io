@@ -6,10 +6,10 @@
   link: https://github.com/clauke/Projeto_Saude
   image: /assets/images/Proj_Saude.png
   description: Análise Estatística, ETL e Machine Learning com Linguagem R.
-- name: Projeto Planos Assinatura
-  link: https://github.com/clauke/Proj_PlanosAssinatura
-  image: /assets/images/Proj_Assinat.png
-  description: Análise de Dados e Dashboard usando somente Excel.
+- name: Projeto Clima
+  link: https://github.com/clauke/Projeto_Clima
+  image: /assets/images/Proj_Clima.png
+  description: Análise de Séries Temporais e Modelagem Preditiva em Python.
 - name: Projeto para Laboratórios
   link: https://github.com/clauke/Proj_Exames_Labor
   image: /assets/images/Proj_Labor.png
