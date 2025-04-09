@@ -17,4 +17,4 @@
 - name: Projeto Filmes
   link: https://github.com/clauke/Projeto_Cinema
   image: /assets/images/Proj_Cinema.png
-  description: Web Scraping e PLN usando requests e NLTK em Python.
+  description: Web Scraping e PLN com requests e NLTK em linguagem Python.
