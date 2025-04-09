@@ -15,6 +15,6 @@
   image: /assets/images/Proj_Labor.png
   description: Business Intelligence e Visualizações com Tableau.
 - name: Projeto Filmes
-  link: https://github.com/clauke/Projeto_Filmes
-  image: /assets/images/Proj_Filmes.png
-  description: Visualizações usando Linguagem R, flexdashboard e Shiny.
+  link: https://github.com/clauke/Projeto_Cinema
+  image: /assets/images/Proj_Cinema.png
+  description: Web Scraping e PLN usando requests e NLTK em Python.
