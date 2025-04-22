@@ -10,12 +10,14 @@ layout: page
 #### E-mails: clauke2004@yahoo.com.br / clauke14@gmail.com
 #### [LinkedIn](https://www.linkedin.com/in/claudia-kenia/)
 
+
 #### *RESUMO PROFISSIONAL*
 Iniciei minha carreira em TI no ano de 1995 tendo percorrido diversas áreas de conhecimento, tais como: suporte a usuários, treinamento, análise/desenvolvimento de Sistemas, gerenciamento de projetos. Há 3 anos, busco conhecimentos em Análise de Dados realizando diversos cursos com o objetivo de migrar para essa área.
 
 #### *EDUCAÇÃO*
 * Pós-Graduação em Engenharia de Software. PUC MINAS, conclusão em 2007.
 * Graduação em Tec. em Processamento de Dados. FCG/UNA, conclusão em 1995.
+
 
 #### *EXPERIÊNCIA PROFISSIONAL*
 * Mai/2024 a Ago/2024: Expertise Pesquisas de Mercado - Analista de BI
@@ -29,6 +31,7 @@ Iniciei minha carreira em TI no ano de 1995 tendo percorrido diversas áreas de 
 
 * 2001-2016 – Secretaria Municipal de Saúde/PRODABEL – Analista de Sistemas
   * Atividades: Analisar, desenvolver e sustentar aplicações para a Secretaria Municipal de Saúde. Gerenciamento do Projeto RPA (elaborar documentação, pontos de função, casos de uso, DER, casos de teste, linguagem UML) implantado na Gerência de Pagamentos, UPA’s e SAMU.
+
 
 #### *CERTIFICADOS/CONHECIMENTOS*
 * Formação Cientista de Dados – Data Science Academy (432hs) – Inclui as seguintes certificações:
