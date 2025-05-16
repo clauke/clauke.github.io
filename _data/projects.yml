@@ -11,9 +11,9 @@
   image: /assets/images/Proj_Clima.png
   description: Análise de Séries Temporais e Modelagem Preditiva em Python.
 - name: Projeto para Laboratórios
-  link: https://github.com/clauke/Proj_Exames_Labor
-  image: /assets/images/Proj_Labor.png
-  description: Business Intelligence e Visualizações com Tableau.
+  link: https://github.com/clauke/Projeto_RH
+  image: /assets/images/Proj_RH.png
+  description: RH Analytics e Dashboard com Linguagem R e Power BI.
 - name: Projeto Filmes
   link: https://github.com/clauke/Projeto_Cinema
   image: /assets/images/Proj_Cinema.png
