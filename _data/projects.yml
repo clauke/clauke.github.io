@@ -13,7 +13,7 @@
 - name: Projeto para Laboratórios
   link: https://github.com/clauke/Projeto_RH
   image: /assets/images/Proj_RH.png
-  description: RH Analytics e Dashboard com Linguagem R e Power BI.
+  description: RH Analytics e Dashboard com R e Power BI.
 - name: Projeto Filmes
   link: https://github.com/clauke/Projeto_Cinema
   image: /assets/images/Proj_Cinema.png
