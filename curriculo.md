@@ -31,13 +31,16 @@ Busco aplicar minha sólida experiência em TI e habilidades analíticas na tran
   * Elaboração de modelos relacionais com Power Architect e SSMS.
   * Desenvolvimento de dashboards no Power BI.
 
+
 * H&P Solutions - Analista de Dados - dez/2023 - mar/2024
 
   * Análise de dados, atividades de ETL utilizando Excel e linguagem R.
 
+
 * SENAC – Instrutora de Informática - 2021-2022 / 2018-2019
 
   * Elaboração de planos de aula e ministração de conteúdos: Introdução ao Hardware, MS-Office, Excel, Informática para Melhor Idade.
+
 
 * Secretaria Municipal de Saúde / PRODABEL – Analista de Sistemas - 2001-2016
 
