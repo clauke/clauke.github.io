@@ -25,25 +25,28 @@ Busco aplicar minha sólida experiência em TI e habilidades analíticas na tran
 
 #### EXPERIÊNCIA PROFISSIONAL
 
-* Expertise Pesquisas de Mercado - Analista de BI - mai/2024 a ago/2024 
+* Expertise Pesquisas de Mercado - Analista de BI - mai/2024 a ago/2024
+
   * Análise de dados e atividades de ETL utilizando Excel e SSIS.
   * Elaboração de modelos relacionais com Power Architect e SSMS.
   * Desenvolvimento de dashboards no Power BI.
 
 * H&P Solutions - Analista de Dados - dez/2023 - mar/2024
+
   * Análise de dados, atividades de ETL utilizando Excel e linguagem R.
 
-* SENAC – Instrutora de Informática - 2021-2022 / 2018-2019 
+* SENAC – Instrutora de Informática - 2021-2022 / 2018-2019
+
   * Elaboração de planos de aula e ministração de conteúdos: Introdução ao Hardware, MS-Office, Excel, Informática para Melhor Idade.
 
-* Secretaria Municipal de Saúde / PRODABEL – Analista de Sistemas - 2001-2016 
+* Secretaria Municipal de Saúde / PRODABEL – Analista de Sistemas - 2001-2016
+
   * Análise, desenvolvimento e sustentação de aplicações para a Secretaria Municipal de Saúde.
   * Gerenciamento do Projeto RPA: elaboração documentação técnica (pontos de função, casos de uso, DER, casos de teste), utilizando UML, implantado na Gerência de Pagamentos, UPA’s e SAMU.
 
 #### CERTIFICAÇÕES E CURSOS
 
 Data Science Academy
-
 * Formação Cientista de Dados (432h), incluindo:
 
   * Big Data Real-Time Analytics com Python e Spark
@@ -56,7 +59,6 @@ Data Science Academy
 * Python Fundamentos para Análise de Dados (54h)
 
 Outros
-
   * Excel Avançado – Fundação Bradesco (30h)
   * Curso HTML Básico – Devmedia (50h)
   * Capacitação em Gerenciamento de Projetos – PRODABEL (76h)
