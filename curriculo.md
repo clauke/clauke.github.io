@@ -40,11 +40,12 @@ Busco aplicar minha sólida experiência em TI e habilidades analíticas na tran
   * Análise, desenvolvimento e sustentação de aplicações para a Secretaria Municipal de Saúde.
   * Gerenciamento do Projeto RPA: elaboração documentação técnica (pontos de função, casos de uso, DER, casos de teste), utilizando UML, implantado na Gerência de Pagamentos, UPA’s e SAMU.
 
-
 #### CERTIFICAÇÕES E CURSOS
 
 Data Science Academy
+
 * Formação Cientista de Dados (432h), incluindo:
+
   * Big Data Real-Time Analytics com Python e Spark
   * Big Data Analytics com R e Microsoft Azure Machine Learning
   * Business Analytics
@@ -54,8 +55,8 @@ Data Science Academy
 * Microsoft Power BI para Data Science (54h)
 * Python Fundamentos para Análise de Dados (54h)
 
-
 Outros
+
   * Excel Avançado – Fundação Bradesco (30h)
   * Curso HTML Básico – Devmedia (50h)
   * Capacitação em Gerenciamento de Projetos – PRODABEL (76h)
@@ -69,11 +70,9 @@ Outros
 * Metodologias: RUP, SCRUM, Métricas de Software
 * Outras: Google Apps, MS Project
 
-
 #### IDIOMA
 
 Inglês: Intermediário (leitura/escrita)
-
 
 #### PUBLICAÇÕES PESSOAIS
 
