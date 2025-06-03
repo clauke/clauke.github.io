@@ -25,27 +25,27 @@ Busco aplicar minha sólida experiência em TI e habilidades analíticas na tran
 
 #### EXPERIÊNCIA PROFISSIONAL
 
-* Expertise Pesquisas de Mercado - Analista de BI - mai/2024 a ago/2024
+**Expertise Pesquisas de Mercado** - Analista de BI - mai/2024 - ago/2024
 
-  * Análise de dados e atividades de ETL utilizando Excel e SSIS.
-  * Elaboração de modelos relacionais com Power Architect e SSMS.
-  * Desenvolvimento de dashboards no Power BI.
-
-
-* H&P Solutions - Analista de Dados - dez/2023 - mar/2024
-
-  * Análise de dados, atividades de ETL utilizando Excel e linguagem R.
+- Análise de dados e atividades de ETL utilizando Excel e SSIS.
+- Elaboração de modelos relacionais com Power Architect e SSMS.
+- Desenvolvimento de dashboards no Power BI.
 
 
-* SENAC – Instrutora de Informática - 2021-2022 / 2018-2019
+**H&P Solutions** - Analista de Dados - dez/2023 - mar/2024
 
-  * Elaboração de planos de aula e ministração de conteúdos: Introdução ao Hardware, MS-Office, Excel, Informática para Melhor Idade.
+- Análise de dados, atividades de ETL utilizando Excel e linguagem R.
 
 
-* Secretaria Municipal de Saúde / PRODABEL – Analista de Sistemas - 2001-2016
+**SENAC** – Instrutora de Informática - 2021-2022 / 2018-2019
 
-  * Análise, desenvolvimento e sustentação de aplicações para a Secretaria Municipal de Saúde.
-  * Gerenciamento do Projeto RPA: elaboração documentação técnica (pontos de função, casos de uso, DER, casos de teste), utilizando UML, implantado na Gerência de Pagamentos, UPA’s e SAMU.
+- Elaboração de planos de aula e ministração de conteúdos: Introdução ao Hardware, MS-Office, Excel, Informática para Melhor Idade.
+
+
+**Secretaria Municipal de Saúde / PRODABEL** – Analista de Sistemas - 2001-2016
+
+- Análise, desenvolvimento e sustentação de aplicações para a Secretaria Municipal de Saúde.
+- Gerenciamento do Projeto RPA: elaboração documentação técnica (pontos de função, casos de uso, DER, casos de teste), utilizando UML, implantado na Gerência de Pagamentos, UPA’s e SAMU.
 
 #### CERTIFICAÇÕES E CURSOS
 
