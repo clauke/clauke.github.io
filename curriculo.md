@@ -23,18 +23,18 @@ Busco aplicar minha sólida experiência em TI e habilidades analíticas na tran
 <br>
 
 #### *EXPERIÊNCIA PROFISSIONAL*
-* Expertise Pesquisas de Mercado - Analista de BI | mai/2024 - ago/2024 
+* Expertise Pesquisas de Mercado - Analista de BI|mai/2024 - ago/2024 
   * Análise de dados e atividades de ETL utilizando Excel e SSIS.
   * Elaboração de modelos relacionais com Power Architect e SSMS.
-  * Desenvolvimento de dashboards no Power BI.<br>
-
-* H&P Solutions - Analista de Dados | dez/2023 - mar/2024<br>
+  * Desenvolvimento de dashboards no Power BI.
+<br>
+* H&P Solutions - Analista de Dados|dez/2023 - mar/2024
   * Análise de dados, atividades de ETL utilizando Excel e linguagem R.<br>
-
-* SENAC – Instrutora de Informática | 2021-2022 / 2018-2019 
-  * Elaboração de planos de aula e ministração de conteúdos: Introdução ao Hardware, MS-Office, Excel, Informática para Melhor Idade.<br>
-
-* Secretaria Municipal de Saúde / PRODABEL – Analista de Sistemas | 2001-2016 
+<br>
+* SENAC – Instrutora de Informática|2021-2022 / 2018-2019 
+  * Elaboração de planos de aula e ministração de conteúdos: Introdução ao Hardware, MS-Office, Excel, Informática para Melhor Idade.
+<br>
+* Secretaria Municipal de Saúde / PRODABEL – Analista de Sistemas|2001-2016 
   * Análise, desenvolvimento e sustentação de aplicações para a Secretaria Municipal de Saúde.
   * Gerenciamento do Projeto RPA: elaboração documentação técnica (pontos de função, casos de uso, DER, casos de teste), utilizando UML, implantado na Gerência de Pagamentos, UPA’s e SAMU.
 <br>
@@ -42,15 +42,16 @@ Busco aplicar minha sólida experiência em TI e habilidades analíticas na tran
 #### *CERTIFICAÇÕES E CURSOS*
 <br>
 Data Science Academy
-  * Formação Cientista de Dados (432h), incluindo:
-    * Big Data Real-Time Analytics com Python e Spark
-    * Big Data Analytics com R e Microsoft Azure Machine Learning
-    * Business Analytics
-    * Visualização de Dados e Design de Dashboards
-    * Engenharia de Dados com Hadoop e Spark
-    * Machine Learning <br>
-  * Microsoft Power BI para Data Science (54h)
-  * Python Fundamentos para Análise de Dados (54h)
+* Formação Cientista de Dados (432h), incluindo:
+  * Big Data Real-Time Analytics com Python e Spark
+  * Big Data Analytics com R e Microsoft Azure Machine Learning
+  * Business Analytics
+  * Visualização de Dados e Design de Dashboards
+  * Engenharia de Dados com Hadoop e Spark
+  * Machine Learning <br>
+* Microsoft Power BI para Data Science (54h)
+* Python Fundamentos para Análise de Dados (54h)
+
 <br>
 Outros
   * Excel Avançado – Fundação Bradesco (30h)
