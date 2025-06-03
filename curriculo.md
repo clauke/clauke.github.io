@@ -17,49 +17,49 @@ Nos últimos 3 anos, direcionei minha carreira para a área de Análise de Dados
 Busco aplicar minha sólida experiência em TI e habilidades analíticas na transformação de dados em informações estratégicas que apoiem a tomada de decisão nas organizações.
 <br>
 
-#### *EDUCAÇÃO*
+#### *EDUCAÇÃO
 * Pós-Graduação em Engenharia de Software. PUC MINAS, 2007
 * Graduação em Tecnologia em Processamento de Dados. FCG/UNA, 1995
 <br>
 
-#### *EXPERIÊNCIA PROFISSIONAL*
-* Expertise Pesquisas de Mercado - Analista de BI|mai/2024 - ago/2024 
-  * Análise de dados e atividades de ETL utilizando Excel e SSIS.
-  * Elaboração de modelos relacionais com Power Architect e SSMS.
-  * Desenvolvimento de dashboards no Power BI.
+#### *EXPERIÊNCIA PROFISSIONAL
+* Expertise Pesquisas de Mercado - Analista de BI - mai/2024 - ago/2024 
+  . Análise de dados e atividades de ETL utilizando Excel e SSIS.
+  . Elaboração de modelos relacionais com Power Architect e SSMS.
+  . Desenvolvimento de dashboards no Power BI.
 <br>
-* H&P Solutions - Analista de Dados|dez/2023 - mar/2024
-  * Análise de dados, atividades de ETL utilizando Excel e linguagem R.<br>
+* H&P Solutions - Analista de Dados - dez/2023 - mar/2024
+  . Análise de dados, atividades de ETL utilizando Excel e linguagem R.<br>
 <br>
-* SENAC – Instrutora de Informática|2021-2022 / 2018-2019 
-  * Elaboração de planos de aula e ministração de conteúdos: Introdução ao Hardware, MS-Office, Excel, Informática para Melhor Idade.
+* SENAC – Instrutora de Informática - 2021-2022 / 2018-2019 
+  . Elaboração de planos de aula e ministração de conteúdos: Introdução ao Hardware, MS-Office, Excel, Informática para Melhor Idade.
 <br>
-* Secretaria Municipal de Saúde / PRODABEL – Analista de Sistemas|2001-2016 
-  * Análise, desenvolvimento e sustentação de aplicações para a Secretaria Municipal de Saúde.
-  * Gerenciamento do Projeto RPA: elaboração documentação técnica (pontos de função, casos de uso, DER, casos de teste), utilizando UML, implantado na Gerência de Pagamentos, UPA’s e SAMU.
+* Secretaria Municipal de Saúde / PRODABEL – Analista de Sistemas - 2001-2016 
+  . Análise, desenvolvimento e sustentação de aplicações para a Secretaria Municipal de Saúde.
+  . Gerenciamento do Projeto RPA: elaboração documentação técnica (pontos de função, casos de uso, DER, casos de teste), utilizando UML, implantado na Gerência de Pagamentos, UPA’s e SAMU.
 <br>
 
-#### *CERTIFICAÇÕES E CURSOS*
+#### *CERTIFICAÇÕES E CURSOS
 <br>
 Data Science Academy
 * Formação Cientista de Dados (432h), incluindo:
-  * Big Data Real-Time Analytics com Python e Spark
-  * Big Data Analytics com R e Microsoft Azure Machine Learning
-  * Business Analytics
-  * Visualização de Dados e Design de Dashboards
-  * Engenharia de Dados com Hadoop e Spark
-  * Machine Learning <br>
+  . Big Data Real-Time Analytics com Python e Spark
+  . Big Data Analytics com R e Microsoft Azure Machine Learning
+  . Business Analytics
+  . Visualização de Dados e Design de Dashboards
+  . Engenharia de Dados com Hadoop e Spark
+  . Machine Learning <br>
 * Microsoft Power BI para Data Science (54h)
 * Python Fundamentos para Análise de Dados (54h)
 
 <br>
 Outros
-  * Excel Avançado – Fundação Bradesco (30h)
-  * Curso HTML Básico – Devmedia (50h)
-  * Capacitação em Gerenciamento de Projetos – PRODABEL (76h)
-  * Teste de Software - Pró-Informática (40h)
+  . Excel Avançado – Fundação Bradesco (30h)
+  . Curso HTML Básico – Devmedia (50h)
+  . Capacitação em Gerenciamento de Projetos – PRODABEL (76h)
+  . Teste de Software - Pró-Informática (40h)
 
-#### *CONHECIMENTOS*
+#### *CONHECIMENTOS
 * Linguagens: R, SQL, Python, CSS, HTML
 * Ferramentas: Power BI, Power Apps, Excel, Git, Google Cloud
 * Sistemas: Windows, Linux (Ubuntu, CentOS)
@@ -67,10 +67,10 @@ Outros
 * Outras: Google Apps, MS Project
 <br>
 
-#### *IDIOMA*
+#### *IDIOMA
 Inglês: Intermediário (leitura/escrita)
 <br>
 
-#### *PUBLICAÇÕES PESSOAIS*
+#### *PUBLICAÇÕES PESSOAIS
 * E-Book: Guia de Impressão 3D – Nível Básico (disponível na Amazon)
 * Curso On-line: Guia de Impressão 3D – Nível Básico (disponível na Udemy)
