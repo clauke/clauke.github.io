@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Cláudia Kênia da Silva
 # Description of the Site
-description: Analista de Dados | Power BI, Python, R e SQL
+description: Data Analyst Sênior | BI & Analytics | Python • R • Power BI • SQL
 # URL of Image of the Site
 site-image:
 # Keywords of the Site
@@ -45,7 +45,7 @@ author-name: Cláudia Kênia
 # URL for the Image of the Author
 author-image: /assets/images/Foto_Git.png
 # 63 Palavras Sobre o Autor
-author-about: Profissional de TI com mais de 25 anos de experiência, atuando nos últimos anos com foco em Análise de Dados, Business Intelligence e Analytics. Possuo experiência prática em projetos de dados end-to-end, envolvendo coleta, tratamento e modelagem dos dados (ETL), análise exploratória e estatística, além da construção de dashboards e visualizações para apoio à tomada de decisão. Trabalho com ferramentas como Python, R, SQL e Power BI, sempre buscando transformar dados em informação clara, confiável e acionável para o negócio.
+author-about: Atuo com Análise de Dados e Business Intelligence aplicando uma abordagem prática e orientada a negócios. Tenho experiência em projetos end-to-end, desde a coleta, tratamento e modelagem dos dados (ETL) até análises exploratórias, estatísticas e construção de dashboards. Utilizo Python, R, SQL e Power BI para estruturar dados, responder perguntas de negócio e apoiar decisões com clareza, consistência e visão analítica.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/clauke
 
