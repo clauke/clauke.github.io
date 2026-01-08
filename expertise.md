@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Expertise
+permalink: /expertise/
 ---
 
 ## Expertise em Dados & BI
