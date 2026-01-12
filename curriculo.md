@@ -65,6 +65,7 @@ Combino visão técnica, organização, pensamento analítico e forte base em pr
 - Atuação em projetos de grande porte no setor público.
 
 - Gerenciamento do Projeto RPA, envolvendo:
+
   - Elaboração de documentação técnica (pontos de função, casos de uso, DER, casos de teste);
   - Utilização de UML;
   - Implantação na Gerência de Pagamentos, UPAs e SAMU.
