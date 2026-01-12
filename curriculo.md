@@ -1,9 +1,7 @@
 ---
-title: Currículo
+title: Cláudia Kênia da Silva
 layout: page
 ---
-
-# Cláudia Kênia da Silva
 
 #### Centro – BH/MG
 #### Telefones: (31) 99718-1075 | (31) 3201-5023
