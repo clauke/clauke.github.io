@@ -62,8 +62,9 @@ Combino visão técnica, organização, pensamento analítico e forte base em pr
 *2001-2016*
 
 - Análise, desenvolvimento e sustentação de sistemas corporativos para a Secretaria Municipal de Saúde de Belo Horizonte.  
-- Atuação em projetos de grande porte no setor público.  
-- Gerenciamento do Projeto RPA:
+- Atuação em projetos de grande porte no setor público.
+
+- Gerenciamento do Projeto RPA, envolvendo:
   - Elaboração de documentação técnica (pontos de função, casos de uso, DER, casos de teste);  
   - Utilização de UML;  
   - Implantação na Gerência de Pagamentos, UPAs e SAMU.
@@ -129,6 +130,7 @@ Mantenho projetos práticos em Análise de Dados, BI e Python publicados no GitH
   - Visualização de Dados e Design de Dashboards
   - Engenharia de Dados com Hadoop e Spark
   - Machine Learning
+  
 - Microsoft Power BI para Data Science (54h)
 - Python Fundamentos para Análise de Dados (54h)
 
