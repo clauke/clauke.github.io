@@ -63,7 +63,6 @@ Combino visão técnica, organização, pensamento analítico e forte base em pr
 
 - Análise, desenvolvimento e sustentação de sistemas corporativos para a Secretaria Municipal de Saúde de Belo Horizonte.
 - Atuação em projetos de grande porte no setor público.
-
 - Gerenciamento do Projeto RPA, envolvendo:
 
   - Elaboração de documentação técnica (pontos de função, casos de uso, DER, casos de teste);
