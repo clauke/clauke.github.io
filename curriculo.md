@@ -23,7 +23,7 @@ Combino visão técnica, organização, pensamento analítico e forte base em pr
 ## EXPERIÊNCIA PROFISSIONAL
 
 ### **SOMOS Atividades Jurídicas** – Apoio em Validação de Dados  
-*2024 (Projeto)*
+*2025 (Projeto)*
 
 - Conferência e validação de dados entre planilhas e o CRM da Mishcon.  
 - Verificação de consistência, integridade e aderência das informações.  
@@ -68,7 +68,7 @@ Combino visão técnica, organização, pensamento analítico e forte base em pr
   - Utilização de UML;  
   - Implantação na Gerência de Pagamentos, UPAs e SAMU.
 
-Essa trajetória consolidou forte base em processos, qualidade da informação, documentação e visão sistêmica — hoje aplicada diretamente ao contexto de Dados e BI.
+*Essa trajetória consolidou forte base em processos, qualidade da informação, documentação e visão sistêmica — hoje aplicada diretamente ao contexto de Dados e BI.*
 
 ---
 
@@ -121,6 +121,7 @@ Mantenho projetos práticos em Análise de Dados, BI e Python publicados no GitH
 - Data Visualization com Power BI
 
 ### Data Science Academy
+
 - Formação Cientista de Dados (432h), incluindo:
   - Big Data Real-Time Analytics com Python e Spark
   - Big Data Analytics com R e Microsoft Azure Machine Learning
@@ -131,7 +132,7 @@ Mantenho projetos práticos em Análise de Dados, BI e Python publicados no GitH
 - Microsoft Power BI para Data Science (54h)
 - Python Fundamentos para Análise de Dados (54h)
 
-Outros
+### Outros
   - Excel Avançado – Fundação Bradesco (30h)
   - Curso HTML Básico – Devmedia (50h)
   - Capacitação em Gerenciamento de Projetos – PRODABEL (76h)
